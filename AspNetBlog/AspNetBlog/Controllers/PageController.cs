@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace App.Web.Mvc.Controllers
+namespace AspNetBlog.Controllers
 {
     public class PageController : Controller
     {

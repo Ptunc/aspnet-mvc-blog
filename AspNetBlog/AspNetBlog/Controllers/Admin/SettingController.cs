@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace App.Web.Mvc.Controllers.Admin
+namespace AspNetBlog.Controllers.Admin
 {
-    public class HomeController : Controller
+    public class SettingController : Controller
     {
         public IActionResult Index()
         {
